@@ -18,7 +18,7 @@ FE:
     loginSecurityLevel: 'rsa'
 GFX:
     jpg_quality: '80'
-    processor: 'GraphicsMagick'
+    processor: 'ImageMagick'
     processor_effects: -1
 LOG:
     writerConfiguration:
