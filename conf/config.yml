@@ -30,3 +30,5 @@ SYS:
     errorHandlerErrors: 32514
     exceptionalErrors: 4352
     systemLogLevel: 2
+    fileCreateMask: 0660
+    folderCreateMask: 2770
