@@ -1,11 +1,5 @@
 EXT:
     extConf:
-        backend:
-            backendFavicon: ''
-            backendLogo: ''
-            loginBackgroundImage: ''
-            loginHighlightColor: ''
-            loginLogo: ''
         extensionmanager:
             automaticInstallation: '1'
             offlineMode: '0'
